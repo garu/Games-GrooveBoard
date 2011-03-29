@@ -1,0 +1,30 @@
+"Groove Board" is a music rhythm game demo in SDL Perl, similar to
+Dance Dance Revolution and StepMania.
+
+Created by garu for the SDL Game Contest.
+
+
+Music:
+======
+
+music.ogg is a poor-quality reencoding of the awesome
+"Opening Day" song by ATOMSPLIT, released under a
+Creative Commons Attribution-ShareAlike 3.0 Unported
+Licence (CC BY-SA 3.0).
+You can support the band and download their full album
+at http://www.jamendo.com/br/album/79105
+
+Art:
+====
+
+I made the arrows myself using Gimp, and release them
+under a Creative Commons Attribution 3.0 Unported
+License (CC BY 3.0).
+
+The background image is a 800x600 png reencoding of
+"star in my bedroom" by Jennifer Boyer (Anosmia),
+released under a Creative Commons Attribution 2.0
+Generic License (CC BY 2.0).
+http://www.flickr.com/photos/jenniferboyer/2110095567/
+
+
